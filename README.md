@@ -16,11 +16,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
 
 2. 📌 Pin Your Best Repositories
-3. 
+   
 Go to your GitHub profile → click “Customize your pins” → select your top projects (like trainlytics, workout-dashboard, etc.)
 
 4. 🧪 Add GitHub Actions
-5. 
+   
 Create .github/workflows/ci.yml in your repo to run tests automatically:
 
 name: CI
