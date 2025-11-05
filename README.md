@@ -16,9 +16,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
 
 2. 📌 Pin Your Best Repositories
+3. 
 Go to your GitHub profile → click “Customize your pins” → select your top projects (like trainlytics, workout-dashboard, etc.)
 
-3. 🧪 Add GitHub Actions
+4. 🧪 Add GitHub Actions
+5. 
 Create .github/workflows/ci.yml in your repo to run tests automatically:
 
 name: CI
@@ -37,6 +39,7 @@ jobs:
       - run: pytest
 
  4. 📊 Add Badges to Your Project README
+    
 ![PyPI](https://img.shields.io/pypi/v/trainlytics)
 ![Build](https://github.com/Raoc1987/trainlytics/actions/workflows/ci.yml/badge.svg)
 ![Coverage](https://coveralls.io/repos/github/Raoc1987/trainlytics/badge.svg?branch=main)
@@ -44,12 +47,14 @@ jobs:
 
 
 5. 🌐 Set Up GitHub Pages
+   
 For project documentation or demos:
 - Go to Settings > Pages
 - Choose a branch and folder (/docs or root)
 - Add a README.md or index.html to display
 
 6. 📽️ Add GIFs and Screenshots
+   
 Show off your projects visually by adding:
 ![Demo](https://raw.githubusercontent.com/Raoc1987/trainlytics/main/demo.gif)
 
@@ -60,19 +65,3 @@ Show off your projects visually by adding:
 ![Coverage](https://coveralls.io/repos/github/Raoc1987/trainlytics/badge.svg?branch=main)
 
 
-
-
-<!--
-**Raoc1987/Raoc1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
