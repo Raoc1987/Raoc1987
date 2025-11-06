@@ -7,7 +7,7 @@
 ## 🔥 Featured Projects
 
 - [Trainlytics](https://github.com/Raoc1987/trainlytics): Python package for workout analysis
-- [Workout Dashboard](https://github.com/Raoc1987/workout-dashboard): Streamlit app for tracking fitness progress
+- [Workout Dashboard](https://github.com/Raoc1987/Workout-Insights-Planner): Streamlit app for tracking fitness progress
 
 ## 🛠️ Tech Stack
 
